@@ -6,7 +6,6 @@ I'm a mathematician who has fallen in love with programming and data science ove
 
 - Python
 - SQL
-- R 
 - Machine Learning 
 - Deep Learning
 - Visualization
